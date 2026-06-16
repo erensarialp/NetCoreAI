@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35913.81 d17.13
+VisualStudioVersion = 17.13.35913.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project1_ApiDemo", "NetCoreAI.Project1_ApiDemo\NetCoreAI.Project1_ApiDemo.csproj", "{1ABB0D89-BF18-4B6F-BC30-2938D02C1EE3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project01_ApiDemo", "NetCoreAI.Project1_ApiDemo\NetCoreAI.Project01_ApiDemo.csproj", "{1ABB0D89-BF18-4B6F-BC30-2938D02C1EE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project2_ApiConsumeUI", "NetCoreAI.Project2_ApiConsumeUI\NetCoreAI.Project2_ApiConsumeUI.csproj", "{CD0164D9-A136-4742-AC14-83E04A254615}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project02_ApiConsumeUI", "NetCoreAI.Project2_ApiConsumeUI\NetCoreAI.Project02_ApiConsumeUI.csproj", "{CD0164D9-A136-4742-AC14-83E04A254615}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project3_RapidApi", "NetCoreAI.Project3_RapidApi\NetCoreAI.Project3_RapidApi.csproj", "{735381C6-FE8A-403C-B5DE-DA8392E72C24}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project03_RapidApi", "NetCoreAI.Project3_RapidApi\NetCoreAI.Project03_RapidApi.csproj", "{735381C6-FE8A-403C-B5DE-DA8392E72C24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project04_OpenAIChat", "NetCoreAI.Project04_OpenAIChat\NetCoreAI.Project04_OpenAIChat.csproj", "{04BDEE2E-CBD7-4CFF-9B6E-D3922E2621EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{735381C6-FE8A-403C-B5DE-DA8392E72C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{735381C6-FE8A-403C-B5DE-DA8392E72C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{735381C6-FE8A-403C-B5DE-DA8392E72C24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04BDEE2E-CBD7-4CFF-9B6E-D3922E2621EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04BDEE2E-CBD7-4CFF-9B6E-D3922E2621EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04BDEE2E-CBD7-4CFF-9B6E-D3922E2621EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04BDEE2E-CBD7-4CFF-9B6E-D3922E2621EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

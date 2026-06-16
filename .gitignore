@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Sensitive configuration files
+NetCoreAI.Project04_OpenAIChat/appsettings.json
