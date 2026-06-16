@@ -364,3 +364,4 @@ FodyWeavers.xsd
 
 # Sensitive configuration files
 NetCoreAI.Project04_OpenAIChat/appsettings.json
+NetCoreAI.Project05_OpenAIWhisperAudioTranskript/appsettings.json
