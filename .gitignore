@@ -366,3 +366,4 @@ FodyWeavers.xsd
 NetCoreAI.Project04_OpenAIChat/appsettings.json
 NetCoreAI.Project05_OpenAIWhisperAudioTranskript/appsettings.json
 NetCoreAI.Project06_DallEImageGeneration/appsettings.json
+NetCoreAI.Project09_AITranslate/appsettings.json
